@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/merge_sorted_arrays.dir/src/merge_sorted_arrays.cpp.o  -o merge_sorted_arrays 

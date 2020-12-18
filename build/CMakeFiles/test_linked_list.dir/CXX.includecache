@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/impl/list_node.hpp
+list_node.h
+../include/impl/list_node.h
+iostream
+-
+
+../include/list_node.h
+
+/home/daoai/code/test/src/test_linked_list.cpp
+iostream
+-
+gtest/gtest.h
+-
+impl/list_node.hpp
+/home/daoai/code/test/src/impl/list_node.hpp
+

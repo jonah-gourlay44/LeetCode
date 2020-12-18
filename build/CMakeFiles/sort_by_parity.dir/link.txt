@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/sort_by_parity.dir/src/sort_by_parity.cpp.o  -o sort_by_parity 
