@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "linked_list"
+		},
+		{
+			"path": "hash_table"
+		},
+		{
+			"path": "tests"
+		}
+	]
+}

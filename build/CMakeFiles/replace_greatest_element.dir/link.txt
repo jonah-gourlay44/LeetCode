@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/replace_greatest_element.dir/src/replace_greatest_element.cpp.o  -o replace_greatest_element 

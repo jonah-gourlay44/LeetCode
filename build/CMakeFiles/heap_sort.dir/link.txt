@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/heap_sort.dir/src/heap_sort.cpp.o  -o heap_sort 

@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Test_Linked_List",
+            "name": "Hash Table Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/linked_list_remove_elements",
+            "program": "${workspaceFolder}/build/test_hash_table",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
